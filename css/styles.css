@@ -1,0 +1,21 @@
+/* Global */
+html {
+    background-color: black;
+    text-align: center;
+}
+
+/*Header */
+h1 {
+    color: white;
+    font-family: Verdana;
+    font-size: 50px;
+}
+a {
+    color: aquamarine;
+    font-size: 16px;
+}
+h3 {
+    color: grey;
+    font-size: 21px;
+    font-family: Verdana;
+}
